@@ -1,4 +1,4 @@
-# auto-hotkey-Mount-Blade
+# auto-hotkey-Codes
 auto hotkey program codes for a couple of things that I use daily
 
 in order to run any of these codes you need to install the following program autohotkey from [auto hotkey](https://autohotkey.com/)
