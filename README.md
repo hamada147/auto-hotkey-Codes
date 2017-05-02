@@ -1,6 +1,8 @@
 # auto-hotkey-Mount-Blade
 auto hotkey program codes for a couple of things that I use daily
 
+in order to run any of these codes you need to install the following program autohotkey from [auto hotkey](https://autohotkey.com/)
+
 #1 Mount & Blade (will work on any version of the game)
 you can use the short cuts only when you have the game as an active window
 
